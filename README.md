@@ -13,7 +13,7 @@ I'm currently focused on improving my skills Advance CSS and JS. Always excited 
 
 ## 💬 About Me
 
-A me about : Java Script and Css
+Java Script and Css
 
 ## 📫 How to reach me 
 *dharmendra11042@gmail.com*
