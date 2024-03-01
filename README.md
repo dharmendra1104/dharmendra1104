@@ -20,7 +20,7 @@ Java Script and Css
 
 ## 📈 GitHub Stats
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmendra1104" alt="dharmendra" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra1104&" alt="dharmendra" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra1104&" alt="dharmendra" /><br>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmendra1104&show_icons=true&locale=en" alt="my passion" /></p>
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendra1104&show_icons=true&locale=en&layout=compact" alt="kuch bhi" /></p> -->
 
